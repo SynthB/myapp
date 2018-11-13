@@ -113,6 +113,9 @@ function calculateWinner(squares) {
           <div className="game-board">
             <Board />
           </div>
+          <div>
+            mymine GIT
+          </div>
           <div className="game-info">
             <div>{/* status */}</div>
             <ol>{/* TODO */}</ol>
